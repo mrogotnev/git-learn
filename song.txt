@@ -49,3 +49,5 @@ new content for first comm in feature
 content for second comm in feature
 
 something, when i have new content in stash 
+
+string for cherry-pick one
