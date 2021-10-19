@@ -47,3 +47,5 @@ Fear me, you’ll die by my sword
 new content for first comm in feature
 
 content for second comm in feature
+
+something, when i have new content in stash 
