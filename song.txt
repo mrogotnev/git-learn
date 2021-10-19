@@ -43,3 +43,5 @@ Leave command
 
 Madness, curse your feeble horde
 Fear me, you’ll die by my sword
+
+new content for first comm in feature
